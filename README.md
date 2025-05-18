@@ -41,3 +41,6 @@
 1. **Install Python** (if not installed):  
    ```bash
    python3 --version  # Requires Python 3.6+
+2. Run
+ ```bash
+   python mips2hex.py
