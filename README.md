@@ -1,5 +1,5 @@
 # MIPS-to-Hex Converter  
-**A CLI tool to convert MIPS assembly to hexadecimal machine code (CS241-compatible).**  
+**A CLI tool to convert MIPS assembly to hexadecimal machine code.**  
 
 ---
 
